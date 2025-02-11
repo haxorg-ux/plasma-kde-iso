@@ -277,15 +277,19 @@ spectacle
 sweeper
 xsettingsd
 
-# dependencias calamares
-plasma-framework5
-yaml-cpp
-python
-python-psutil
-python-pyxdg
-python-dbus-next
-kpmcore
-libpwquality
+# ----- dependencias calamares ----- #
+# descomentar para instalar dependencias 
+# calamers
+# ---------------------------------- #
+# plasma-framework5
+# yaml-cpp
+# python
+# python-psutil
+# python-pyxdg
+# python-dbus-next
+# kpmcore
+# libpwquality
+# ---------------------------------- #
 
 # complemento desktop 
 asciinema
@@ -310,9 +314,14 @@ linux-headers
 
 
 ## -------- custom repo ------ ##
-etcher-bin
-calamares
-mkinitcpio-openswap
-ckbcomp
-core-calamares-config-plasma
-downgrade
+# instalar paquetes repositorio remoto
+# descomentar para que se instalen al crear la iso
+# ---------------------------- ##
+# etcher-bin
+# calamares
+# mkinitcpio-openswap
+# ckbcomp
+# core-calamares-config-plasma
+# downgrade
+# paru-bin
+# simplescreenrecorder
