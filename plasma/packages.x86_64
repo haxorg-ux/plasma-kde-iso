@@ -277,20 +277,6 @@ spectacle
 sweeper
 xsettingsd
 
-# ----- dependencias calamares ----- #
-# descomentar para instalar dependencias 
-# calamers
-# ---------------------------------- #
-# plasma-framework5
-# yaml-cpp
-# python
-# python-psutil
-# python-pyxdg
-# python-dbus-next
-# kpmcore
-# libpwquality
-# ---------------------------------- #
-
 # complemento desktop 
 asciinema
 aspell-pt
@@ -312,6 +298,19 @@ gparted
 
 linux-headers
 
+# ----- dependencias calamares ----- #
+# descomentar para instalar dependencias 
+# calamers
+# ---------------------------------- #
+# plasma-framework5
+# yaml-cpp
+# python
+# python-psutil
+# python-pyxdg
+# python-dbus-next
+# kpmcore
+# libpwquality
+# ---------------------------------- #
 
 ## -------- custom repo ------ ##
 # instalar paquetes repositorio remoto
